@@ -1,2 +1,2 @@
 # Patient-Appointment-Scheduling
-Patient Appointment Scheduling
+The user interface for the online patient appointment system was designed and implemented using HTML5, CSS3, Bootstrap, and JavaScript, ensuring full responsiveness. The backend architecture supports integration with Django and PostgreSQL, with all forms and pages designed according to an API-centric structure. Features include appointment management, user and physician authentication, online payment gateway integration (ZarrinPal), SMS confirmation via services like Kavenegar, and asynchronous event processing using FastAPI and Webhooks. The template structure allows for seamless REST API integration and is designed to be extensible into a full-fledged admin panel and professional dashboard.
